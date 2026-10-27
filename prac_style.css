@@ -4,10 +4,9 @@
 }
 
 body {
-    background: #100D08;
+    background: #212121;
     color: #fff;
     font-family: monospace;
-    padding: 2%;
     line-height: 1.8;
 }
 
@@ -19,7 +18,7 @@ h1{
     width: 100%;
     max-width: 700px;
     margin: 0 auto;
-    padding: 10px;
+    padding: 100px;
     background: #100D08;
     display: grid;
     gap: 15px;

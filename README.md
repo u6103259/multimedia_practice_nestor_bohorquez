@@ -53,3 +53,4 @@ default monospace font, which is easy to read and fits a technical profile. I
 also decided not to use icons, to keep the design simple. 
 
 Figma link: https://www.figma.com/design/HO7CAXRdRVF0qOZptyqnrI/Prac-1-Design?node-id=0-1&t=yy1qP2CjdJVb5ZXU-1
+GitHub Pages: https://u6103259.github.io/multimedia_practice_nestor_bohorquez/

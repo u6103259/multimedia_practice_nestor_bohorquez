@@ -1,0 +1,62 @@
+:root {
+    --border-gran: 15px;
+    --border-curt: 5px; 
+}
+
+body {
+    background: #212121;
+    color: #fff;
+    font-family: monospace;
+    padding: 2%;
+    line-height: 1.8;
+}
+
+h1{
+    line-height: 1;
+}
+
+.cv {
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 10px;
+    background: #100D08;
+    display: grid;
+    gap: 15px;
+    border-radius: var(--border-curt);
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.card {
+    background: #212121;
+    border-radius: var(--border-gran);
+    padding: 20px 22px;
+}
+
+.segona-columna{
+    margin-top: 15px;
+}
+
+.left-columna { 
+    grid-column: 1; 
+    grid-row: 1; 
+}
+.right-columna { 
+    grid-column: 2; 
+    grid-row: 1; 
+}
+
+.perfil img {
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+    border-radius: var(--border-gran);
+}
+
+ul {
+    padding-left: 15px;
+}
+
+.right-columna { 
+    display: flex; 
+}
